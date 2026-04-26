@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 2nd Year B.Tech Student  
+🎓 3rd Year B.Tech Student  
 💻 Passionate about **Frontend Web Development**  
 🌱 Currently learning **React.js**, **JavaScript**, and responsive UI design  
 🎯 Exploring API integration and real-world project building  
