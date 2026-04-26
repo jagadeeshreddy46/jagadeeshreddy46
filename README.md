@@ -81,7 +81,7 @@ Git | GitHub | Jupyter Notebook | VS Code
 ## 🌍 Let's Connect!
 
 * 📧 Email: [mekalajagadeeswarreddy@gmail.com](mailto:mekalajagadeeswarreddy@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/jagadeeswarreddy-mekala
+* 💼 LinkedIn: https://linkedin.com/in/jagadeeswar-reddy-mekala
 * 🌐 Portfolio: https://jagaportfolio.netlify.app
 
 ---
