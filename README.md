@@ -4,47 +4,68 @@
 
 ## 🚀 About Me
 
-🎓 3rd Year B.Tech Student  
-💻 Passionate about **Frontend Web Development**  
-🌱 Currently learning **React.js**, **JavaScript**, and responsive UI design  
-🎯 Exploring API integration and real-world project building  
-📫 Reach me: mekalajagadeeswarreddy@gmail.com
+🎓 B.Tech Student (CSE - AI & ML) with a strong focus on **Data Analytics and Business Intelligence**
+
+📊 I specialize in **SQL, Python, and Power BI**, with hands-on experience in analyzing structured datasets, performing exploratory data analysis (EDA), and building interactive dashboards
+
+📈 Experienced in working with **real-world datasets (5,000+ records)** to uncover trends, optimize performance, and support data-driven decision-making
+
+💡 Skilled in translating business problems into data solutions by developing **KPIs, identifying patterns, and delivering actionable insights**
+
+⚡ Strong foundation in:
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* SQL Query Optimization
+* Dashboard Development (Power BI)
+* Business Insight Generation
+
+🎯 Currently focused on building **end-to-end data analytics projects** and improving skills in **advanced SQL, statistical analysis, and dashboard storytelling**
+
+📫 Reach me: [mekalajagadeeswarreddy@gmail.com](mailto:mekalajagadeeswarreddy@gmail.com)
 
 ---
 
-## 💡 Projects I’ve Built
+## 💼 Data Analytics Projects
 
-- 🎬 **Netflix Clone**  
-  A streaming platform UI built using React with responsive design and carousels.
+* 🍫 **Chocolate Sales Analysis Dashboard**
+  Analyzed sales data to uncover revenue trends, regional performance, and product profitability
+  → Developed KPIs such as Revenue, Profit Margin, and Sales Growth
+  → Identified top-performing products and underperforming regions
+  → Built interactive Power BI dashboard for business decision-making
 
-- ✅ **Todo List (React)**  
-  A minimal task management app using React components and state handling.
+* 📈 **Amazon Sales Performance Dashboard**
+  Analyzed 5,000+ transactions to uncover revenue trends and profit patterns
+  → Developed KPIs like Revenue, Profit %, Order Volume, and YoY Growth
+  → Designed dashboard for performance monitoring and insights
 
-- 🛒 **E-Commerce Website**  
-  Built with HTML, CSS, and JS — includes product grid, basic cart, and mobile responsiveness.
-
-- 🎥 **Movie App (TMDB API)**  
-  Displays trending movies and allows search using the TMDB API and React.js.
-
-- ⛅ **Weather App**  
-  Fetches real-time weather data from a public API and displays it with a clean UI.
-
-- 🌐 **Portfolio Website**  
-  My personal developer portfolio:  
-  👉 [View Portfolio](https://jagaportfolio.netlify.app/)
+* 🧠 **HR Attrition Analytics**
+  Analyzed employee data to identify attrition patterns and workforce risks
+  → Developed KPIs such as attrition rate and department turnover
+  → Built dashboard to support HR strategy and retention planning
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**  
-HTML | CSS | JavaScript | Python (Basics)
+**Languages & Tools:**
+SQL | Python (Pandas, NumPy) | Excel
 
-**Libraries & Frameworks:**  
-React.js | Bootstrap | Tailwind CSS (Learning)
+**Data Visualization:**
+Power BI (DAX, Power Query) | Matplotlib | Seaborn
 
-**Tools & Platforms:**  
-Git | GitHub | Netlify | VS Code | Figma (Basic)
+**Other Tools:**
+Git | GitHub | Jupyter Notebook | VS Code
+
+---
+
+## 📊 What I Bring
+
+✔ Strong analytical thinking and problem-solving skills
+✔ Ability to convert raw data into meaningful insights
+✔ Hands-on experience with dashboards and reporting
+✔ Business-focused approach to data analysis
+✔ Continuous learner with practical project experience
 
 ---
 
@@ -59,13 +80,12 @@ Git | GitHub | Netlify | VS Code | Figma (Basic)
 
 ## 🌍 Let's Connect!
 
-- 📧 Email: [mekalajagadeeswarreddy@gmail.com](mailto:mekalajagadeeswarreddy@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jagadeeswarreddy-mekala](https://www.linkedin.com/in/jagadeeswarreddy-mekala)
-- 🌐 Portfolio: [jagaportfolio.netlify.app](https://jagaportfolio.netlify.app)
+* 📧 Email: [mekalajagadeeswarreddy@gmail.com](mailto:mekalajagadeeswarreddy@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/jagadeeswarreddy-mekala
+* 🌐 Portfolio: https://jagaportfolio.netlify.app
 
 ---
 
 ## ⚡ Fun Fact
 
-> I love building beautiful UIs, solving layout bugs, and learning through real projects! 🧩
-
+> I enjoy uncovering hidden patterns in data and turning them into actionable insights that drive smarter business decisions 📊
